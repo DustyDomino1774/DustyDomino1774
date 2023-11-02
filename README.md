@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DustyDomino1774
 - 👀 I’m interested in Game development
-- 🌱 I’m currently learning Unreal
-- 💞️ I’m looking to collaborate on Videogames
+- 🌱 I’m currently learning Unreal, Unity, and Stride
+- 💞️ I’m looking to collaborate on Videogames and development game design
 - 📫 How to reach me ...
 
 <!---
